@@ -4,3 +4,5 @@ optimisers uploaded are:
 3)Adagrad;
 4)NAG(nestrov accelerated gradient)
 5)Adam
+6)RMSProp
+
